@@ -1,0 +1,5 @@
+pdf
+txt
+gif
+jpg
+png
